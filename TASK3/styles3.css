@@ -1,0 +1,36 @@
+dy{
+    margin: 0;
+    padding: 0;
+}
+#chap1:target{
+     background-color: red; 
+    /* background-image: url("chef.jpg"); */
+    box-shadow: 2px 5px 6px red;
+}
+
+#chap2:target{
+    /* background-color: red; */
+    background-image: url("chef.jpg");
+    text-shadow: 2px 2px 3px red;
+}
+#chap3:target{
+    /* background-color: red; */
+    background-image: url("gondol.jpg");
+    background-size: cover;
+    text-shadow: 2px 2px 3px red;
+}
+#links{
+    vertical-align: top;
+    width: 500px;
+     height: 500px;
+    display: inline-block;
+    border: 1px solid black;
+}
+
+.container{
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+    border: 1px solid black;
+    overflow: scroll;
+}

@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: block;
+    text-align: center;
+}
+.violet:hover{
+       background-color: violet;
+       padding: 20px;
+       text-shadow: 2px 2px 0px rgb(226, 9, 183);
+       color: violet;
+      
+}
+.Indigo:hover{
+    background-color: indigo;
+    padding: 20px;
+    text-shadow: 2px 2px 0px rgb(143, 7, 240);
+    color: indigo;
+}
+.Blue:hover{
+    background-color: blue;
+    padding: 20px;
+    text-shadow: 2px 2px 0px rgb(157, 157, 237);
+    color: blue;
+}
+.Green:hover{
+    background-color: green;
+    padding: 20px;
+    text-shadow: 2px 2px 0px green;
+    color: rgb(122, 228, 122);
+}
+.Yellow:hover{
+    background-color: yellow;
+    padding: 20px;
+    text-shadow: 2px 2px 0px yellow;
+    color: rgb(232, 232, 102)
+}
+.Orange:hover{
+    background-color: orange;
+    padding: 20px;
+    text-shadow: 2px 2px 0px orange;
+    color: rgb(229, 201, 148);
+}
+.Red:hover{
+    background-color: rgb(255, 0, 0);
+    padding: 20px;
+    text-shadow: 2px 2px 0px rgb(255, 0, 0);
+    color: rgb(237, 122, 122);
+}

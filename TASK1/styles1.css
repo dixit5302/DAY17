@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+table{
+    background-color: rgba(0, 255, 98, 0.267);
+    border: 5px solid rgba(255, 0, 0, 0.545);
+}
+.p1:hover{
+    background-color: antiquewhite;
+    color: rgb(221, 42, 42);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.5rem;
+}
+.b1:hover{
+    background-color: black;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+}
+.h1:hover{
+    background-color: cornflowerblue;
+    color: brown;
+    font-size: 1.5rem;
+    
+}
+.one:hover{
+    background-color: rgb(255, 0, 195);
+    color: rgb(110, 57, 4);
+    text-shadow: 2px 1px 2px red;
+    font-size: 1.2rem;
+}
+.two:hover{
+    background-color: blueviolet;
+    color: cornsilk;
+    text-shadow: 2px 1px 2px red;
+    font-size: 1.2rem;
+}
+.three:hover{
+    background-color:yellow;
+    color: blue;
+    text-shadow: 2px 1px 2px red;
+    font-size: 1.2rem;
+}
